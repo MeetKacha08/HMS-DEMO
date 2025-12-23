@@ -1,0 +1,129 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "name": "Meet",
+      "age": 30,
+      "contact": "9876543210",
+      "email": "admin12@gmail.com",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "address": "123, 5th Avenue"
+    },
+    {
+      "id": "1",
+      "name": "Meet",
+      "age": 30,
+      "contact": "9876543210",
+      "email": "admin12@gmail.com",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "address": "123, 5th Avenue"
+    },
+    {
+      "id": "8335",
+      "name": "Beau Smith",
+      "age": "95",
+      "contact": "Quo consequatur nul",
+      "email": "bucoxocyhi@mailinator.com",
+      "city": "Surat",
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "address": "cyjaba@mailinator.com",
+      "surnsme": "Laborum nemo lorem a"
+    },
+    {
+      "id": "6980",
+      "name": "Thor Waller",
+      "age": "35",
+      "contact": "Assumenda obcaecati ",
+      "email": "kybavop@mailinator.com",
+      "city": "Ahmedabad",
+      "state": "Panjab",
+      "country": "India",
+      "address": "wyduqiviq@mailinator.com",
+      "surnsme": "Nulla ut rerum nulla"
+    },
+    {
+      "id": "5827",
+      "name": "Rudyard Rodriquez",
+      "age": "92",
+      "contact": "Non distinctio Eius",
+      "email": "xylycyzyha@mailinator.com",
+      "city": "Surat",
+      "state": "Gujarat",
+      "country": "India",
+      "address": "dasiboduwu@mailinator.com",
+      "surnsme": "Consequuntur laborum"
+    }
+  ],
+  "Doctor": [
+    {
+      "id": "401e",
+      "name": "Indira Brady",
+      "age": "96",
+      "specialization": "Gastroenterologists",
+      "experiance": "Fresher",
+      "contact": "Ad et voluptates omn",
+      "email": "bosib@mailinator.com",
+      "city": "Surat",
+      "state": "State",
+      "country": "Country",
+      "address": "Optio sunt delectu"
+    },
+    {
+      "id": "524c",
+      "name": "Wylie Hewitt",
+      "age": "100",
+      "specialization": "Cardiologists",
+      "experiance": "Fresher",
+      "contact": "Quaerat laborum quod",
+      "email": "jekoxi@mailinator.com",
+      "city": "Ahmedabad",
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "address": "Et nihil ad ipsum r"
+    },
+    {
+      "id": "2778",
+      "name": "Randall Jenkins",
+      "age": "50",
+      "specialization": "Gastroenterologists",
+      "experiance": "Fresher",
+      "contact": "Vitae dolorem non op",
+      "email": "xukuvine@mailinator.com",
+      "city": "Surat",
+      "state": "Himachal Pradesh",
+      "country": "Country",
+      "address": "Voluptatum quis quos"
+    },
+    {
+      "id": "",
+      "name": "Gillian Soto",
+      "age": "20",
+      "specialization": "Orthopedists",
+      "experiance": "3 Years",
+      "contact": "Nesciunt est quia l",
+      "email": "husu@mailinator.com",
+      "city": "City",
+      "state": "Uter Pradesh",
+      "country": "India",
+      "address": "Omnis quia aspernatu"
+    },
+    {
+      "id": "",
+      "name": "",
+      "age": "",
+      "specialization": "",
+      "experiance": "",
+      "contact": "",
+      "email": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "address": ""
+    }
+  ]
+}
